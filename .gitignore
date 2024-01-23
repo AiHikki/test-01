@@ -1,5 +1,6 @@
 *.txt
 drafts/*
 !plans.txt
+!thoughts.txt
 example.html
 .DS_Store
